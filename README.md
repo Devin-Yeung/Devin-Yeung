@@ -6,4 +6,4 @@ I'm also drawn to systems that are precise, typed, and deterministic, and I enjo
 
 Outside of programming, you'll find me hiking trails and capturing the outdoors through my lens — with Mt. Fuji being my ultimate muse. 🗻
 
-Status: `AVAILABLE_FOR_HIRE = true` 🌍 — Open to opportunities globally. Think we'd work well together? [Let's chat!](https://s.y-cg.dev/oss-resume)
+I'm looking for my next challenge anywhere on Earth 🌍. My resume won't crash your parser, I promise → [proof](https://s.y-cg.dev/oss-resume)
